@@ -1,0 +1,3 @@
+# SINGLE: ha a következő soron lévő tároló üres, próbálja a másikat
+GT4500,10,0,0,0
+TORPEDO,SINGLE
