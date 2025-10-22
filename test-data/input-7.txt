@@ -1,0 +1,3 @@
+# ALL: ha mindkettő failure/üres, visszatér false
+GT4500,0,1,0,1
+TORPEDO,ALL

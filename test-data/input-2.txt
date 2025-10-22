@@ -1,0 +1,4 @@
+# SINGLE: alternálás – második SINGLE a secondary-t lője
+GT4500,10,0,10,0
+TORPEDO,SINGLE # kilovi az elsot
+TORPEDO,SINGLE # kilovi a masodikat

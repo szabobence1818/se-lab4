@@ -1,0 +1,3 @@
+# SINGLE: az első SINGLE hívás a primary tárolót lője
+GT4500,10,0,10,0
+TORPEDO,SINGLE # elso tarolobol lo

@@ -1,0 +1,3 @@
+# SINGLE: ha a soron lévő tároló failure, ne próbálja a másikat
+GT4500,1,1,1,0
+TORPEDO,SINGLE
